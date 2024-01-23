@@ -10,3 +10,7 @@ My CV in [pdf]( https://github.com/sadidul/sk_portfolio/blob/main/sk_data_analys
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## Contacts
+- LinkedIn: [@sk](https://www.linkedin.com/in/md-sadidul-kabir)
+- Email: msk.chanchal@gmail.com
