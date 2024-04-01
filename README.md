@@ -9,7 +9,7 @@ I am a self-starter who prefers working alone, but I also work well in a team an
 My CV in [PDF](https://github.com/sadidul/sk_portfolio/blob/main/sk_data_analyst.pdf).
 
 ## Portfolio Projects
-In this section I will list Data Analytics and Data Science projects briefly describing the technology stack used to solve cases.
+In this section, I will list Data Analytics and Data Science projects, briefly describing the technology stack used to solve cases.
 
 ### Dhaka Weather Analysis (1953-2016)
 **Code:** [`1953-2016 Dhaka Weather Analysis.ipynb`](https://github.com/sadidul/Data_Analysis_Project/blob/main/1953-2016%20Dhaka%20Weather%20Analysis.ipynb)
