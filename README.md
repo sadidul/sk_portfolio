@@ -4,21 +4,21 @@ Hello, this is Sadidul Kabir. I'm a passionate data analyst who has extensive ex
 
 I have worked in a wide range of businesses, including technology, healthcare, finance, and retail. My expertise includes manipulating and analyzing huge data sets utilizing tools like SQL, Pandas, NumPy, Matplotlib, and Seaborn in Python and related libraries, as well as presenting results in PowerBI in an understandable and engaging way.
 
-I am a self-starter who prefers working alone, but I also work well in a team and am most productive in a collaborative setting. In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I am a self-starter who prefers working alone, but I also work well in a team and am most productive in a collaborative setting. In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working in a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 My CV in [PDF](https://github.com/sadidul/sk_portfolio/blob/main/sk_data_analyst.pdf).
 
 ## Portfolio Projects
 In this section, I will list Data Analytics and Data Science projects, briefly describing the technology stack used to solve cases.
 
-### Dhaka Weather Analysis (1953-2016)
+### Dhaka Weather Analysis (1953–2016)
 **Code:** [`1953-2016 Dhaka Weather Analysis.ipynb`](https://github.com/sadidul/Data_Analysis_Project/blob/main/1953-2016%20Dhaka%20Weather%20Analysis.ipynb)
 
 **Goal:** The data set we will use for data analysis is Dhaka weather data from 1953 to 2016.
 
-**Description:** The project focused on analyzing a dataset of weather which was collected from the Bangladesh Meteorological Department. The dataset included YEAR, Month, MaxTemp, MinTemp, RelativeHumidity, Rainfall, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing a dataset of weather data that was collected from the Bangladesh Meteorological Department. The dataset included YEAR, Month, MaxTemp, MinTemp, RelativeHumidity, Rainfall, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation, and implementing Pearson’s correlation statistical analysis.
 
-**Skills:** data cleaning, data analysis, correlation matrices, statistical analysis, data visualization and finding insights.
+**Skills:** data cleaning, data analysis, correlation matrices, statistical analysis, data visualization, and finding insights.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
@@ -30,14 +30,14 @@ In this section, I will list Data Analytics and Data Science projects, briefly d
 5. Rainfall & Humidity are highly Correlated
 
 
-### Predicting CO2 emission using ML Regression Models
+### Predicting CO2 emissions using ML Regression Models
 **Code:** [`linear_regression_predict_carbon-dioxide emissions.ipynb`](https://github.com/sadidul/Data_Analysis_Project/blob/main/linear_regression_predict_carbon-dioxide%20emissions.ipynb)
 
-**Goal:** The data set we will use for predicting CO2 emission using Linear Regression Model.
+**Goal:** The data set we will use for predicting CO2 emissions using Linear Regression Model.
 
 **Description:** The dataset contains data on the engine size, number of cylinders, fuel consumption, and carbon dioxide gas emissions of some vehicles. Assume that carbon-dioxide emissions are the target variable in this dataset; that is, given the engine size, number of cylinders, and fuel consumption of a new car, you want to predict the car's carbon-dioxide emissions.
 
-**Skills:** data cleaning, EDA, LinearRegression model, statsmodels and so on .
+**Skills:** data cleaning, EDA, LinearRegression model, statsmodels and so on.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, scikit-learn.
 
