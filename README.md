@@ -6,7 +6,7 @@ I have worked in a wide range of businesses, including technology, healthcare, f
 
 I am a self-starter who prefers working alone, but I also work well in a team and am most productive in a collaborative setting. In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf]( https://github.com/sadidul/sk_portfolio/blob/main/sk_data_analyst.pdf).
+My CV in [PDF](https://github.com/sadidul/sk_portfolio/blob/main/sk_data_analyst.pdf).
 
 ## Portfolio Projects
 In this section I will list Data Analytics and Data Science projects briefly describing the technology stack used to solve cases.
