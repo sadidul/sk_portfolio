@@ -30,6 +30,20 @@ In this section I will list Data Analytics and Data Science projects briefly des
 5. Rainfall & Humidity are highly Correlated
 
 
+### Predicting CO2 emission using ML Regression Models
+**Code:** [`linear_regression_predict_carbon-dioxide emissions.ipynb`](https://github.com/sadidul/Data_Analysis_Project/blob/main/linear_regression_predict_carbon-dioxide%20emissions.ipynb)
+
+**Goal:** The data set we will use for predicting CO2 emission using Linear Regression Model.
+
+**Description:** The dataset contains data on the engine size, number of cylinders, fuel consumption, and carbon dioxide gas emissions of some vehicles. Assume that carbon-dioxide emissions are the target variable in this dataset; that is, given the engine size, number of cylinders, and fuel consumption of a new car, you want to predict the car's carbon-dioxide emissions.
+
+**Skills:** data cleaning, EDA, LinearRegression model, statsmodels and so on .
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, scikit-learn.
+
+**Results:** The model can predict 89% accurately. We can use this model to predict CO2 emissions by making new observations.
+
+
 ## Contacts
 - LinkedIn: [@sk](https://www.linkedin.com/in/md-sadidul-kabir)
 - Email: msk.chanchal@gmail.com
