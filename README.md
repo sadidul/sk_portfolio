@@ -24,8 +24,8 @@ In this section, I will list Data Analytics and Data Science projects, briefly d
 
 **Results:** 
 1. Jun, July and August are most Rainy Months
-2. April, May, Jun and July are most Max Temprature Months
-3. December, January and February are most Min Temprature Months
+2. April, May, Jun and July are most Max Temperature Months
+3. December, January and February are most Min Temperature Months
 4. Jun, July and August has Highly Relative Humidity
 5. Rainfall & Humidity are highly Correlated
 
